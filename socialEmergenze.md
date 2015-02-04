@@ -43,24 +43,27 @@ Nascono così ad esempio gli hashtag “regionali” come base di partenza solid
 
 Qui le indicazioni per costruire hashtag per altre esigenze:
 
-###Gravità
-####Prevenzione
+##Gravità
+
+###Prevenzione  
+
 \#segnalazione: per segnalare problematica (prevenzione)  
 \#azione: per segnalare un’azione civica di prevenzione (e.g. ho pulito un fosso)  
 
-####Emergenze
+###Emergenze  
+
 \#allerta : elevata criticità  
 \#preallarme : criticità moderata  
 \#attenzione : criticità ordinaria  
 \#sos: richiesta aiuto  
 
-####Ricostruzione
+###Ricostruzione  
 \#cercoAiuto
 \#offroAiuto
 \#primaNecessità
 \#logistica
 
-###Categoria
+##Categoria
 La categoria di rischio identificata come parola chiave descrive il fenomeno che si sta verificando. Usare uno di questi (se possibile):  
 \#meteo (specificabile in #alluvione, #neve, #maremoto, #tornado, #grandine, #calore ed altri eventi riferibili ad agenti atmosferici)  
 \#traffico  
@@ -77,14 +80,14 @@ Laddove il luogo da cui si segnala coincide con il luogo dell’evento da segnal
 
 #Altre Buone pratiche
 
-###Multicanale
+##Multicanale
 La diffusione delle informazioni deve avvenire in più canali possibili, in modo da arrivare a più persone possibile.
 Oltre ai canali più comuni noi proponiamo:
 * Twitter (con apposito hashtag)  
 * Facebook (con hashtag e/o gruppo apposito)  
 
-###Multimedia
+##Multimedia
 Le segnalazioni vanno sempre (se possibile) corredate da una foto della situazione, cosa che inoltre ne rende più agevole la validazione.  
 
-###Orario
+##Orario
 Può essere utile iniziare con un orario (tipo h16) perché dopo le prime ore si cominciano a ripostare messaggi passate di qualche ora e si può generare più confusione che altro (non tutti controllano orario ma leggono e rilanciano)  
