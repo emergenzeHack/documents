@@ -62,12 +62,12 @@ Qui le indicazioni per costruire hashtag per altre esigenze:
 
 ###Categoria
 La categoria di rischio identificata come parola chiave descrive il fenomeno che si sta verificando. Usare uno di questi (se possibile):  
-\#meteo (specificabile in #alluvione, #neve, #maremoto, #tornado, #grandine, #calore ed altri eventi riferibili ad agenti atmosferici)
-\#traffico
-\#terremoto
-\#med (sanitario)
-\#incendio
-\#danno (utile per comunicare danneggiamenti a cose) seguito da oggetto danneggiato, es. "#danno a #strada SP23" o anche "#danno a #lineaelettrica 22.000V" o "#danno a #viadotto" 
+\#meteo (specificabile in #alluvione, #neve, #maremoto, #tornado, #grandine, #calore ed altri eventi riferibili ad agenti atmosferici)  
+\#traffico  
+\#terremoto  
+\#med (sanitario)  
+\#incendio  
+\#danno (utile per comunicare danneggiamenti a cose) seguito da oggetto danneggiato, es. "#danno a #strada SP23" o anche "#danno a #lineaelettrica 22.000V" o "#danno a #viadotto"  
 
 
 ##geoLocalizzazione
@@ -80,11 +80,11 @@ Laddove il luogo da cui si segnala coincide con il luogo dell’evento da segnal
 ###Multicanale
 La diffusione delle informazioni deve avvenire in più canali possibili, in modo da arrivare a più persone possibile.
 Oltre ai canali più comuni noi proponiamo:
-Twitter (con apposito hashtag)
-Facebook (con hashtag e/o gruppo apposito)
+* Twitter (con apposito hashtag)  
+* Facebook (con hashtag e/o gruppo apposito)  
 
 ###Multimedia
-Le segnalazioni vanno sempre (se possibile) corredate da una foto della situazione, cosa che inoltre ne rende più agevole la validazione.
+Le segnalazioni vanno sempre (se possibile) corredate da una foto della situazione, cosa che inoltre ne rende più agevole la validazione.  
 
 ###Orario
-Può essere utile iniziare con un orario (tipo h16) perché dopo le prime ore si cominciano a ripostare messaggi passate di qualche ora e si può generare più confusione che altro (non tutti controllano orario ma leggono e rilanciano)
+Può essere utile iniziare con un orario (tipo h16) perché dopo le prime ore si cominciano a ripostare messaggi passate di qualche ora e si può generare più confusione che altro (non tutti controllano orario ma leggono e rilanciano)  
