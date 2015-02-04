@@ -6,17 +6,17 @@ title: Social Emergenze
 Questo documento, creato in modo libero e collaborativo, punta ad organizzare ed elaborare linee guida e standard per lo scambio di dati e informazioni tra cittadini (e istituzioni) su emergenze in atto e rischio ambientale utilizzando gli strumenti che la rete mette a disposizione.  
 Il documento punta inoltre a raccogliere liste di informazioni e dati utili.  
 Con questo documento:
-* non si vuole stabilire priorità di fonti dati e informazioni
-* non si vuole imporre l’uso di strumenti specifici 
-* non si vuole dare regole o metodi specifici per l’accesso a dati e informazioni
+* non si vuole stabilire priorità di fonti dati e informazioni  
+* non si vuole imporre l’uso di strumenti specifici   
+* non si vuole dare regole o metodi specifici per l’accesso a dati e informazioni  
 
 #Grammatica di hashtag 
 Se questo mondo si accorda su hashtag condivisi il mondo delle emergenze potrebbe diventare piu' semplice.  
 Si descrive qui come taggare (etichettare) un post (messaggio)  
 Per prima cosa proponiamo di usare hashtag (#hashtag) costruiti seguendo il seguente schema:  
-* gravità della situazione (es. allerta)
-* categoria (es. meteo)
-* localizzazione (es. TOS per Toscana)
+* gravità della situazione (es. allerta)  
+* categoria (es. meteo)  
+* localizzazione (es. TOS per Toscana)  
 
 Nascono così ad esempio gli hashtag “regionali” come base di partenza solida su cui costruire poi delle varianti locali, in modo da saper convogliare prima e soprattutto al primo insorgere di un’emergenza le info verificate (questo sistema è già stato testato soprattutto in Toscana e in Emilia-Romagna con l’alluvione a Modena) 
 
