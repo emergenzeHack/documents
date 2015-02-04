@@ -82,7 +82,7 @@ Laddove il luogo da cui si segnala coincide con il luogo dell’evento da segnal
 
 ##Multicanale
 La diffusione delle informazioni deve avvenire in più canali possibili, in modo da arrivare a più persone possibile.
-Oltre ai canali più comuni noi proponiamo:
+Oltre ai canali più comuni noi proponiamo:  
 * Twitter (con apposito hashtag)  
 * Facebook (con hashtag e/o gruppo apposito)  
 
