@@ -72,14 +72,14 @@ Laddove il luogo da cui si segnala coincide con il luogo dell’evento da segnal
 
 #Altre Buone pratiche
 
-##Orario
-Può essere utile iniziare con un orario (tipo h16) perché dopo le prime ore si cominciano a ripostare messaggi passate di qualche ora e si può generare più confusione che altro (non tutti controllano orario ma leggono e rilanciano)
-
-##Multi-canale
+###Multicanale
 La diffusione delle informazioni deve avvenire in più canali possibili, in modo da arrivare a più persone possibile.
 Oltre ai canali più comuni noi proponiamo:
 Twitter (con apposito hashtag)
 Facebook (con hashtag e/o gruppo apposito)
 
-##Multi-Media
+###Multimedia
 Le segnalazioni vanno sempre (se possibile) corredate da una foto della situazione, cosa che inoltre ne rende più agevole la validazione.
+
+###Orario
+Può essere utile iniziare con un orario (tipo h16) perché dopo le prime ore si cominciano a ripostare messaggi passate di qualche ora e si può generare più confusione che altro (non tutti controllano orario ma leggono e rilanciano)
