@@ -52,15 +52,10 @@ Qui le indicazioni per costruire hashtag per altre esigenze:
 ####Ricostruzione
 \#cercoAiuto
 \#offroAiuto
-
-##Tipologia di informazione
 \#primaNecessità
 \#logistica
-\#offerta
-\#richiesta
-\#aiuto
 
-##Categoria
+###Categoria
 La categoria di rischio identificata come parola chiave descrive il fenomeno che si sta verificando. Usare uno di questi (se possibile):  
 \#meteo (specificabile in #alluvione, #neve, #maremoto, #tornado, #grandine, #calore ed altri eventi riferibili ad agenti atmosferici)
 \#traffico
