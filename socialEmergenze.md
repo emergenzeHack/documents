@@ -5,7 +5,7 @@ title: Social Emergenze
 
 Questo documento, creato in modo libero e collaborativo, punta ad organizzare ed elaborare linee guida e standard per lo scambio di dati e informazioni tra cittadini (e istituzioni) su emergenze in atto e rischio ambientale utilizzando gli strumenti che la rete mette a disposizione.  
 Il documento punta inoltre a raccogliere liste di informazioni e dati utili.  
-Con questo documento:
+Con questo documento:  
 * non si vuole stabilire priorità di fonti dati e informazioni  
 * non si vuole imporre l’uso di strumenti specifici   
 * non si vuole dare regole o metodi specifici per l’accesso a dati e informazioni  
