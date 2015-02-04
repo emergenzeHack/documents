@@ -43,13 +43,13 @@ Qui le indicazioni per costruire hashtag per altre esigenze:
 \#segnalazione: per segnalare problematica (prevenzione)  
 \#azione: per segnalare un’azione civica di prevenzione (e.g. ho pulito un fosso)  
 
-##Emergenze:
+####Emergenze:
 \#allerta : elevata criticità  
 \#preallarme : criticità moderata  
 \#attenzione : criticità ordinaria  
 \#sos: richiesta aiuto  
 
-##Ricostruzione
+####Ricostruzione
 \#cercoAiuto
 \#offroAiuto
 
