@@ -82,10 +82,10 @@ Laddove il luogo da cui si segnala coincide con il luogo dell’evento da segnal
 
 ##Multicanale
 La diffusione delle informazioni deve avvenire in più canali possibili, in modo da arrivare a più persone possibile.
-Oltre ai canali "tradizionali" si propone:
-\#Twitter (con apposito hashtag)
-\#Facebook (con hashtag e/o gruppo apposito)
-\#Whatsapp 
+Oltre ai canali "tradizionali" si propone: 
+Twitter (con apposito hashtag) 
+Facebook (con hashtag e/o gruppo apposito) 
+Whatsapp  
 
 ##Multimedia
 Le segnalazioni vanno sempre (se possibile) corredate da una foto della situazione, cosa che inoltre ne rende più agevole la validazione.  
