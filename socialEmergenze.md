@@ -20,26 +20,26 @@ Per prima cosa proponiamo di usare hashtag (#hashtag) costruiti seguendo il segu
 
 Nascono così ad esempio gli hashtag “regionali” come base di partenza solida su cui costruire poi delle varianti locali, in modo da saper convogliare prima e soprattutto al primo insorgere di un’emergenza le info verificate (questo sistema è già stato testato soprattutto in Toscana e in Emilia-Romagna con l’alluvione a Modena) 
 
-\#allertameteoVDA
-\#allertameteoPIE
-\#allertameteoLIG
-\#allertameteoLOM
-\#allertameteoVEN
-\#allertameteoTAA
-\#allertameteoFVG (a Trieste > #allertameteoTS)
-\#allertameteoER
-\#allertameteoTOS
-\#allertameteoMAR
-\#allertameteoUM
-\#allertameteoLAZ
-\#allertameteoABR
-\#allertameteoMOL
-\#allertameteoCAM
-\#allertameteoBAS
-\#allertameteoPUG
-\#allertameteoCAL
-\#allertameteoSIC
-\#allertameteoSAR
+\#allertameteoVDA  
+\#allertameteoPIE  
+\#allertameteoLIG  
+\#allertameteoLOM  
+\#allertameteoVEN  
+\#allertameteoTAA  
+\#allertameteoFVG  
+\#allertameteoER  
+\#allertameteoTOS  
+\#allertameteoMAR  
+\#allertameteoUM  
+\#allertameteoLAZ  
+\#allertameteoABR  
+\#allertameteoMOL  
+\#allertameteoCAM  
+\#allertameteoBAS  
+\#allertameteoPUG  
+\#allertameteoCAL  
+\#allertameteoSIC  
+\#allertameteoSAR  
 
 Qui le indicazioni per costruire hashtag per altre esigenze:
 
@@ -82,10 +82,10 @@ Laddove il luogo da cui si segnala coincide con il luogo dell’evento da segnal
 
 ##Multicanale
 La diffusione delle informazioni deve avvenire in più canali possibili, in modo da arrivare a più persone possibile.
-Oltre ai canali "tradizionali" si propone: 
-Twitter (con apposito hashtag) 
-Facebook (con hashtag e/o gruppo apposito) 
-Whatsapp  
+Oltre ai canali "tradizionali" si propone:  
+Twitter (con apposito hashtag)  
+Facebook (con hashtag e/o gruppo apposito)  
+Whatsapp   
 
 ##Multimedia
 Le segnalazioni vanno sempre (se possibile) corredate da una foto della situazione, cosa che inoltre ne rende più agevole la validazione.  
